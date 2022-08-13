@@ -1,31 +1,32 @@
 ---
+active: false
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Featured Talks'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 10
   # Filter on criteria
   filters:
-    author: ''
-    category: ''
-    tag: ''
+    author: ""
+    category: ""
+    tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-    publication_type: ''
+    publication_type: ""
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -37,5 +38,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  #   5 = Youtube (embeds videos)
+  view: 5
 ---
+

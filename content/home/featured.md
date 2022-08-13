@@ -7,10 +7,10 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 25
 
 title: Featured Publications
-subtitle: ''
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -19,14 +19,17 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
 design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
