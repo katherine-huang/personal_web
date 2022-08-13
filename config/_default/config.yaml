@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Haolun Wu # Website name
+title: Academic # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -45,16 +45,6 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    codeFences: false
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
 imaging:
   resampleFilter: lanczos
   quality: 75
