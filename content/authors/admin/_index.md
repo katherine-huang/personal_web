@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Haolun Wu
+title: Xiaoshan Huang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science
+role: Ph.D. Student in Educational Psychology - Learning Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
