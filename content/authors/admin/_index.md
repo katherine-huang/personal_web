@@ -28,14 +28,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: McGill University & MILA
+  - course: PhD in Educational Psychology-Learning Sciences
+    institution: McGill University 
     year: 2021-2025
-  - course: M.Sc. in Computer Science
-    institution: McGill University & MILA
+  - course: M.Ed. in Educational and Counselling Psychology
+    institution: McGill University 
     year: 2019-2021
-  - course: B.Eng. in Computer Science
-    institution: Northeastern University
+  - course: B.A. in English Language and Literature
+    institution: Shenzhen University
     year: 2015-2019
 
 # Social/Academic Networking
