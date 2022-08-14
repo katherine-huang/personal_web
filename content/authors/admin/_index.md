@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: xiaoshan.huang@mail.mcgill.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Haolun_Wu0203
@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "haolun.wu@mail.mcgill.ca; haolun.wu@mila.quebec"
+email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
