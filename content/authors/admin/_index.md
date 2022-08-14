@@ -11,7 +11,7 @@ role: Ph.D. Student in Educational Psychology - Learning Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: McGill University
-    url: https://www.cs.mcgill.ca/
+    url: https://www.mcgill.ca/edu-ecp/programs
   - name: MILA - Quebec AI Institue
     url: https://mila.quebec/en/person/haolun-wu/
 
