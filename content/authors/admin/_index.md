@@ -48,16 +48,16 @@ social:
   link: xiaoshan.huang@mail.mcgill.ca
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Haolun_Wu0203
+  link: https://twitter.com/KathyHu61187319
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=-KcBDLcAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=unzA_yEAAAAJ&hl=en&authuser=1&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/haolun-wu
+  link: https://github.com/XHKATHY
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/haolun-wu-23ba08133/
+  link: https://www.linkedin.com/in/xiaoshan-huang-55378b193/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
