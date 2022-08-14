@@ -41,5 +41,5 @@ design:
   view: 2 -->
 ---
 * I am a certificated **personal fitness trainer**. I was a member of the American Council on Exercise (2019-2023).
-* I am also a passionate explorer of the nature with **Advanced Open Water (AOW) Diving** license since 2016. 
+* I am also a passionate explorer of the nature with the **Advanced Open Water (AOW) Diving** license since 2016. 
 * Beyond my professions, I am an amateur photographer, travel enthusiast and fashion lover. 
