@@ -20,10 +20,10 @@ bio: My research interests include distributed IR, RecSys, FATE, etc. I am commi
 
 # Interests to show in About widget
 interests:
-  - Search and Recommendation
-  - Information Retrieval
-  - Fairness and Trustworthy AI
-  - Continual Learning
+  - Social Emotional Interaction
+  - Emotion Regulation
+  - Computer-supported Collaborative Learning
+  - Educational Data Mining
 
 # Education to show in About widget
 education:
