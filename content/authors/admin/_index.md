@@ -11,9 +11,9 @@ role: Ph.D. Student in Educational Psychology - Learning Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: McGill University
-    url: https://www.mcgill.ca/edu-ecp/programs
-  - name: MILA - Quebec AI Institue
-    url: https://mila.quebec/en/person/haolun-wu/
+    url: https://www.mcgill.ca/
+  - name: ATLAS Lab - Advanced Technologies for Learning in Authentic Settings
+    url: https://www.mcgill.ca/atlas-lab/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed IR, RecSys, FATE, etc. I am commited to using AI techniques for benefiting data-driven decision-making in human lives.
