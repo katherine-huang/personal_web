@@ -6,7 +6,7 @@ title: Xiaoshan Huang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Educational Psychology - Learning Science
+role: Ph.D. Student in Educational Psychology - Learning Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
