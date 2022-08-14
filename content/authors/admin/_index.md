@@ -72,11 +72,16 @@ email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hi! I am Xiaoshan Huang. I was born in [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) , China. 
+I have a background of Educational Psychology, and I am currently a Ph.D. student in Learning Sciences at McGill University. 
+I work with [Dr. Susanne Lajoie](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=2821) (Canada Research Chair, Tier 1). 
+My research work focuses on the cognitive and affective experience in technology-rich contexts, from the perspectives of teachers, and students. 
+I am also interested in investigating learners' social-emotional interactions and emotion regulation in collaborative learning, within the contexts of authentic learning. 
+I am committed to using advanced technologies to benefit learners' social emotional interactions and aid collaborators' decision-making in problem-solving tasks.
 
-I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu). I spent my first 18 years at this "Land of Abundance" in China and then traveled to different places around the world. 
-Currently, I am a Ph.D. student at McGill and MILA. I work with [Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/) (Fellow of Canadian Academy of Engineering, Fellow of IEEE) and [Laurent Charlin](http://www.cs.toronto.edu/%7Elcharlin/) (Canadian CIFAR AI Chair). 
-My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
-I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
+
+
+
 
 
 
