@@ -62,13 +62,14 @@ design:
 [//]: # (# - 2016 [Best Demo]&#40;publication/interactive-musical-improvisation-with-magenta/&#41; at Neural Information Processing Systems &#40;NeurIPS&#41; 2016)
 
 
-- 2022 SIGIR Student Travel Grant.
-- 2021 Apple Scholars PhD Fellowship Nominee (1 out of 3 students at McGill University)
-- 2020 Grad Excellence Award, McGill University
-- 2019 Excellent Graduation Thesis, Northeastern University
-- 2016-2019 Outstanding Student, Northeastern University
-- 2017 HUAWEI Scholarship, Huawei Technologies Co., Ltd.
-- 2017 Second Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modelling)
-- 2017 MCM/ICM Honorable Prize, COMAP (Consortium for Mathematics and Its Application)
-- 2016 Yao Tianshun Scholarship (2 out of 250 students), Northeastern University
-- 2014 First Prize (rank 18th in Sichuan Province), CMS (Chinese Mathematical Association)
+- 2023 Graduate Excellent Award, McGill University
+- 2022 Graduate Research Enhancement and Travel (GREAT) Award
+- 2022 Education Graduate Students’ Society (EGSS) Professional and Research Development
+Award
+- 2021 Educational & Counselling Psychology (ECP) Graduate Excellence Fellowship
+- 2021 Educational & Counselling Psychology (ECP) Emerging Researcher Award
+- 2018 USIEA-IELTS Scholarship, U.S. International Education Association
+- 2017 Excellent Leader in Winter Social Practice
+- 2017 Excellent Student of Art and Sports, Shenzhen University
+- 2016 Excellent Student of Art and Sports, Shenzhen University
+- 2015 Annual Outstanding Host of the Student Union, Shenzhen University
