@@ -33,24 +33,24 @@ publication_types: ["2"]
 publication: In *Educational Technology Research and Development*
 publication_short: In *Educational Technology Research and Development 2022*
 
-abstract: Teacher emotions could make a diference to the development of technological pedagogical content knowledge (TPACK), a complicated knowledge  essential for efective teaching with technology. Both experienced and novice teachers reported having experienced a
+abstract: Teacher emotions could make a difference to the development of technological pedagogical content knowledge (TPACK), a complicated knowledge  essential for efective teaching with technology. Both experienced and novice teachers reported having experienced a
 series of emotional challenges as they acquire technology integration skills. Self-regulated
 learning (SRL), a series of cognitive and metacognitive learning processes in problem-solving, is associated with learners’ emotions as well. In this paper, we examine the infuence
 of teaching experience and SRL on teachers’ emotions in the context of TPACK development. Particularly, we identify two distinct groups of teachers based on the extent to which
 they experience positive and negative emotional experience in the task using the clustering analysis method.  Binary logistic regression  was applied  to  test  whether  the model
 of teaching experience and SRL can predict previous emotion groups. Although the overall  model  was signifcant,  only  SRL  was a signifcant individual predictor  in this context.  Regression analysis revealed a positive association between  SRL  and teacher emotions. We used a qualitative method to analyze teachers’ think-aloud protocols to further
-determine teaching experience and SRL’s infuence on teacher emotions. The results supported previous  fndings  that SRL can positively predict teachers’ emotions during the
+determine teaching experience and SRL’s influence on teacher emotions. The results supported previous  fndings  that SRL can positively predict teachers’ emotions during the
 TPACK development task. Implications were discussed for providing emotional support to
 teachers during TPACK development.
 
 # Summary. An optional shortened abstract.
-summary: Teacher emotions could make a diference to the development of technological pedagogical content knowledge (TPACK), a complicated knowledge  essential for efective teaching with technology. Both experienced and novice teachers reported having experienced a
+summary: Teacher emotions could make a difference to the development of technological pedagogical content knowledge (TPACK), a complicated knowledge  essential for efective teaching with technology. Both experienced and novice teachers reported having experienced a
 series of emotional challenges as they acquire technology integration skills. Self-regulated
 learning (SRL), a series of cognitive and metacognitive learning processes in problem-solving, is associated with learners’ emotions as well. In this paper, we examine the infuence
 of teaching experience and SRL on teachers’ emotions in the context of TPACK development. Particularly, we identify two distinct groups of teachers based on the extent to which
 they experience positive and negative emotional experience in the task using the clustering analysis method.  Binary logistic regression  was applied  to  test  whether  the model
 of teaching experience and SRL can predict previous emotion groups. Although the overall  model  was signifcant,  only  SRL  was a signifcant individual predictor  in this context.  Regression analysis revealed a positive association between  SRL  and teacher emotions. We used a qualitative method to analyze teachers’ think-aloud protocols to further
-determine teaching experience and SRL’s infuence on teacher emotions. The results supported previous  fndings  that SRL can positively predict teachers’ emotions during the
+determine teaching experience and SRL’s influence on teacher emotions. The results supported previous  fndings  that SRL can positively predict teachers’ emotions during the
 TPACK development task. Implications were discussed for providing emotional support to
 teachers during TPACK development.
 
