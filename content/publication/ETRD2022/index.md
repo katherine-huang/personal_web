@@ -27,11 +27,11 @@ publishDate: "2022-08-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Educational Technology Research and Development*
-publication_short: In *ETRD 2022*
+publication_short: In *Educational Technology Research and Development 2022*
 
 abstract: Teacher emotions could make a diference to the development of technological pedagogical content knowledge (TPACK), a complicated knowledge  essential for efective teaching with technology. Both experienced and novice teachers reported having experienced a
 series of emotional challenges as they acquire technology integration skills. Self-regulated
