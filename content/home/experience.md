@@ -32,10 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developed resources focused on executive function skills for students from elementary to high
-schools.
-        * Identified, planned, and delivered subject-theme educational activities for students of varying
-age groups.
+        * Developed resources focused on executive function skills for students from elementary to high schools.
+        * Identified, planned, and delivered subject-theme educational activities for students of varying age groups.
 
 
 design:
