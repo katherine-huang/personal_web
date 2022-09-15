@@ -37,7 +37,7 @@ abstract: Teacher emotions could make a difference to the development of technol
 
 # Summary. An optional shortened abstract.
 summary: Teacher emotions could make a difference to the development of technological pedagogical content knowledge (TPACK), a complicated knowledge  essential for efective teaching with technology. Both experienced and novice teachers reported having experienced a
-series of emotional challenges as they acquire technology integration skills. Self-regulated
+: series of emotional challenges as they acquire technology integration skills. Self-regulated
 learning (SRL), a series of cognitive and metacognitive learning processes in problem-solving, is associated with learners’ emotions as well. In this paper, we examine the infuence
 of teaching experience and SRL on teachers’ emotions in the context of TPACK development. Particularly, we identify two distinct groups of teachers based on the extent to which
 they experience positive and negative emotional experience in the task using the clustering analysis method.  Binary logistic regression  was applied  to  test  whether  the model
