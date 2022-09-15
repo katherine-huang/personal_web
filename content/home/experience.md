@@ -22,18 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Support Researcher, PhD Intern
-    company: Huawei Noah's Ark Lab
+  - title: Workshop Co-founder
+    company: Bronfman Jewish Education Centre
     company_url: ''
     company_logo: org-gc
     location: Montreal
-    date_start: '2021-09-01'
-    date_end: '2022-06-30'
+    date_start: '2019-09-01'
+    date_end: '2019-12-20'
     description: |2-
         Responsibilities include:
         
-        * Conduct one project on efficiently training the implicit feedback data for recommendation through adaptively learning the data importance.
-        * Conduct one project on efficiently utilizing auxiliary information in recommendation through self-supervised learning and contrastive alignment.
+        * Developed resources focused on executive function skills for students from elementary to high
+schools.
+        * Identified, planned, and delivered subject-theme educational activities for students of varying
+age groups.
 
 
 design:
