@@ -40,5 +40,8 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* Reviewer: AAAI 2022, KDD 2022, TKDD 2022
-* Session Chair: SIGIR 2022 (Session: Collaborative Filtering)
+* Reviewer: Frontiers in Psychology,Knowledge Management & E-Learning: An International Journal (KM&EL),  the Annual Meeting of the American Educational Research Association (AERA), 2021 & 2022
+* Committee Member: The Quebec Scientific Entrepreneurship Program (QcSE), International Student Group in the Department of Educational Psychology and Counselling Psychology(ECP-ISG)
+* Invited Speaker: Educational and Counselling Psychology (ECP) Programs Event
+* Co-student Representative: Hiring Committee of the Department of Educational Psychology and Counselling Psychology at McGill University
+* Coordinator: Shenzhen Lighten Entrepreneurship Promotion Association
