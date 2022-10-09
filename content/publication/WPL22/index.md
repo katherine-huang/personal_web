@@ -1,15 +1,17 @@
 ---
-title: "Joint Multisided Exposure Fairness for Recommendation"
+title: "How to prompt training effectiveness? An investigation on achievement goal setting intervention in workplace learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Yan Jiang
+- Weihan Lin
 - admin
-- Bhaskar Mitra
-- Chen Ma
-- Fernando Diaz
-- Xue Liu
+- Lian Duan
+- Yihua Wu
+- Panpan Jiang
+- Xinheng Wang
 
 # Author notes (optional)
 # author_notes:
