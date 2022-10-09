@@ -34,7 +34,29 @@ publication_types: ["1"]
 publication: In *the 2022 Annual Conference on American Educational Research Association*
 publication_short: In *AERA 2022*
 
-abstract: Implicit feedback is frequently used for developing personalized recommendation services due to its ubiquity and accessibility in real-world systems. In order to effectively utilize such information, most research adopts the pairwise ranking method on constructed training triplets $\langle$\textit{user, positive item, negative item}$\rangle$ and aims to distinguish between positive items and negative items for each user. However, most of these methods treat all the training triplets equally, which ignores the subtle difference between different positive or negative items. On the other hand, even though some other works make use of the auxiliary information (e.g., dwell time) of user behaviors to capture this subtle difference, such auxiliary information is hard to obtain. To mitigate the aforementioned problems, we propose a novel training framework named Triplet Importance Learning (TIL), which adaptively learns the importance score of training triplets. We devise two strategies for the importance score generation and formulate the whole procedure as a bilevel optimization, which does not require any rule-based design. We integrate the proposed training procedure with several Matrix Factorization (MF)- and Graph Neural Network (GNN)-based recommendation models, demonstrating the compatibility of our framework. Via a comparison using three real-world datasets with many state-of-the-art methods, we show that our proposed method outperforms the best existing models by 3-21\% in terms of Recall@k for the top-$k$ recommendation. 
+abstract: What is already known about this topic 
+
+Self-regulated learning (SRL) and medical reasoning skills are both crucial for diagnosing patients. 
+
+Medical students can practice clinical reasoning with computer simulations.  
+
+What this paper adds 
+
+Students solved virtual patients of varying complexity in an intelligent tutoring system 
+
+We examined the co-occurrences of SRL behaviors and medical reasoning process. 
+
+Epistemic network analysis was used to analyze the interplay of SRL and medical reasoning. 
+
+ High performers show more co-occurrences of reflection and higher-order reasoning.  
+
+Implications for practice and/or policy 
+
+Task complexity has impact on students’ learning and reasoning co-occurrences. 
+
+Intelligent tutoring systems should foster regulation and reasoning acquisition.    
+
+ 
 
 # Summary. An optional shortened abstract.
 summary: We propose a novel training framework named Triplet Importance Learning (TIL), which adaptively learns the importance score of training triplets. We devise two strategies for the importance score generation and formulate the whole procedure as a bilevel optimization, which does not require any rule-based design.
