@@ -41,10 +41,7 @@ abstract: Self-regulated learning (SRL) and medical reasoning skills are both cr
  
 
 # Summary. An optional shortened abstract.
-summary: The epistemic network analysis can detect learning and reasoning co-occurrences. 
-High performers show more co-occurrences in reflection and higher-order reasoning.  
-Task complexity has impact on students’ learning and reasoning co-occurrences. 
-Intelligent tutoring systems should foster regulation and reasoning acquisition.    
+summary: The epistemic network analysis can detect learning and reasoning co-occurrences. High performers show more co-occurrences in reflection and higher-order reasoning. Task complexity has impact on students’ learning and reasoning co-occurrences. Intelligent tutoring systems should foster regulation and reasoning acquisition.    
 
   
 
