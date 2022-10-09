@@ -6,7 +6,7 @@ title: "Exploring the Co-occurrence of Students’ Learning Behaviours and Reaso
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- shan Li
+- Shan Li
 - Tingting Wang
 - Zexuan Pan
 - Susanne P. Lajoie
