@@ -34,13 +34,11 @@ publication_types: ["1"]
 publication: In *the 2022 Annual Conference on American Educational Research Association*
 publication_short: In *AERA 2022*
 
-abstract: What is already known about this topic：Self-regulated learning (SRL) and medical reasoning skills are both crucial for diagnosing patients. 
-Medical students can practice clinical reasoning with computer simulations.  
-What this paper adds：Students solved virtual patients of varying complexity in an intelligent tutoring system 
+abstract: Self-regulated learning (SRL) and medical reasoning skills are both crucial for diagnosing patients. 
+Medical students can practice clinical reasoning with computer simulations. Students solved virtual patients of varying complexity in an intelligent tutoring system 
 We examined the co-occurrences of SRL behaviors and medical reasoning process. 
 Epistemic network analysis was used to analyze the interplay of SRL and medical reasoning. 
-High performers show more co-occurrences of reflection and higher-order reasoning.  
-Implications for practice and/or policy：
+High performers show more co-occurrences of reflection and higher-order reasoning.
 Task complexity has impact on students’ learning and reasoning co-occurrences. 
 Intelligent tutoring systems should foster regulation and reasoning acquisition.    
 
