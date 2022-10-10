@@ -38,7 +38,7 @@ abstract: Teacher emotions could make a difference to the development of technol
 # Summary. An optional shortened abstract.
 Summary: The nBrowser system is designed to support student teachers to regulate their learning while navigating the web and designing a lesson plan that implements technologies into the classroom. Through evaluating teachers' think-aloud protocols while using the computer-based learning environment, we identified emotions and self-regulated learning strategies as core elements in influencing teachers' instructional design performance.  
 
-tags: [Teacher emotion, Technological Pedagogical Content Knowledge, Self-regulated learning]
+tags: [Emotions, Technological Pedagogical Content Knowledge, Self-regulated learning]
 
 # Display this page in the Featured widget?
 featured: true
