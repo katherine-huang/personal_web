@@ -45,7 +45,7 @@ summary: The epistemic network analysis can detect learning and reasoning co-occ
 
   
 
-tags: [Data Importance, Recommendation, Implicit Feedback, Bilevel Optimization]
+tags: [Self-Regulated Learning, Medical Reasoning, Epistemic Network Analysis, Intelligent Tutoring System]
 
 # Display this page in the Featured widget?
 featured: true
@@ -58,7 +58,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2208.01709.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://aera22-aera.ipostersessions.com/?s=B7-D6-2D-BB-D1-9A-74-F1-8B-83-59-F7-8D-F9-A7-D9'
 url_project: ''
 url_slides: ''
 url_source: ''
