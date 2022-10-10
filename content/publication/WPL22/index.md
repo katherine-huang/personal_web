@@ -43,7 +43,7 @@ summary: To the best of the authors’ knowledge, this study was the first to co
 
 
 
-tags: [Workplace Learning, Achievement Goal Orientation, Goal Setting, Deep Learning, Training Effectiveness, learning Behavior, Learning Intervention]
+tags: [Workplace Learning, Achievement Goal Orientation, Goal Setting, Deep Learning, Training Effectiveness, Learning Behavior, Learning Intervention]
 
 # Display this page in the Featured widget?
 featured: true
