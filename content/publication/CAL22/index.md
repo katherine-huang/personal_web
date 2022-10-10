@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2208.01709.pdf'
+url_pdf: 'file:///Users/whl/Documents/Manuscripts/ENA_unblinded%20manuscript.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: 'https://aera22-aera.ipostersessions.com/?s=B7-D6-2D-BB-D1-9A-74-F1-8B-83-59-F7-8D-F9-A7-D9'
