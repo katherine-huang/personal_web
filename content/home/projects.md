@@ -27,14 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Fairness
-    tag: Fairness
-  - name: Knowledge-enhanced
-    tag: Knowledge-enhanced
-  - name: Metric-Analysis
-    tag: Metric-Analysis
-  - name: Recommendation
-    tag: Recommendation
+  - name: Emotions
+    tag: Emotions
+  - name: Learning Behavior
+    tag: Learning behavior
+  - name: Intelligent Tutoring System
+    tag: Intelligent Tutoring System
+  - name: Workplace Training
+    tag: Workplace Training
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
