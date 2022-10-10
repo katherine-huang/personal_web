@@ -29,12 +29,12 @@ content:
     tag: '*'
   - name: Emotions
     tag: Emotions
-  - name: Learning Behavior
-    tag: Learning behavior
+  - name: Self-Regulated Learning 
+    tag: Self-Regulated Learning 
   - name: Intelligent Tutoring System
     tag: Intelligent Tutoring System
-  - name: Workplace Training
-    tag: Workplace Training
+  - name: Training Effectiveness
+    tag: Training Effectiveness
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
