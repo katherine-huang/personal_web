@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2205.00048.pdf'
+url_pdf: 'https://www.emerald.com/insight/content/doi/10.1108/JWL-01-2022-0012/full/pdf?title=how-to-prompt-training-effectiveness-an-investigation-on-achievement-goal-setting-intervention-in-workplace-learning'
 url_code: ''
 url_dataset: ''
 url_poster: ''
