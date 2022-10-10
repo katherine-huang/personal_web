@@ -36,10 +36,12 @@ publication_types: ["2"]
 publication: In *the Journal of Workplace Learning*
 publication_short: In *JWPL22*
 
-abstract: Prior research on exposure fairness in the context of recommender systems has focused mostly on disparities in the exposure of individual or groups of items to individual users of the system. The problem of how individual or groups of items may be systemically under or over exposed to groups of users, or even all users, has received relatively less attention. However, such systemic disparities in information exposure can result in observable social harms, such as withholding economic opportunities from historically marginalized groups *allocative harm* or amplifying gendered and racialized stereotypes *representational harm*. Previously, Diaz et al. developed the *expected exposure* metric---that incorporates existing user browsing models that have previously been developed for information retrieval---to study fairness of content exposure to individual users. We extend their proposed framework to formalize a family of exposure fairness metrics that model the problem jointly from the perspective of both the consumers and producers. Specifically, we consider group attributes for both types of stakeholders to identify and mitigate fairness concerns that go beyond individual users and items towards more systemic biases in recommendation. Furthermore, we study and discuss the relationships between the different exposure fairness dimensions proposed in this paper, as well as demonstrate how stochastic ranking policies can be optimized towards said fairness goals.
+abstract: The purpose of this study is to propose and examine an integrated learning model for improving training effectiveness in workplace learning. Specifically, this study investigated the effect of achievement goal-setting intervention across three groups of new employees from a multinational medical company. During a three-day remote training program, the role of each achievement goal orientation (AGO) in goal setting intervention and their relations with trainees’ applied learning strategies were examined. This study proposed and validated an integrated training model for improving remote workplace learning effectiveness.
 
 # Summary. An optional shortened abstract.
-summary: Prior works on fairness in recommendation mostly only mode the fairness of different stakeholders seperately. In our work, we first model the interactional behavoir between the consumer side and the producer side. We care not only whether the content is over/under exposed but also to whom and in what context.
+summary: To the best of the authors’ knowledge, this study was the first to combine the intervention of goal setting and types of AGOs into workplace learning. This study adds to previous research on goal setting theory and AGO theory for the practical application and proposes an effective model for learners’ adaptive remote learning. Findings of this study can be used to provide educational psychological insights for training and learning in both industrial and academic settings.
+
+
 
 tags: [Workplace Learning, Achievement Goal Orientation, Goal Setting, Deep Learning, Training Effectiveness, learning Behavior, Learning Intervention]
 
@@ -76,7 +78,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- SIGIR2022_JMEFair
+- WPL22
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
