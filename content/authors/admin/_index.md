@@ -86,4 +86,4 @@ I am committed to using advanced technologies to benefit learners' social emotio
 
 
 
-{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/Xiaoshan_CV.pdf" "newtab" >}}here{{< /staticref >}}.
