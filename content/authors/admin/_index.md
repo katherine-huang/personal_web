@@ -6,7 +6,7 @@ title: Xiaoshan Huang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Educational Psychology - Learning Sciences
+role: Ph.D. Candidate in Educational Psychology - Learning Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -42,29 +42,33 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: xiaoshan.huang@mail.mcgill.ca
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/KathyHu61187319
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=unzA_yEAAAAJ&hl=en&authuser=1&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/XHKATHY
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/xiaoshan-huang-55378b193/
+social:        
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/KathyHu61187319
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=unzA_yEAAAAJ&hl=en&authuser=1&oi=ao
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/XHKATHY
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/xiaoshan-huang-55378b193/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Xiaoshan_CV.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
@@ -86,4 +90,4 @@ I am committed to using advanced technologies to benefit learners' social emotio
 
 
 
-{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/Xiaoshan_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+[//]: # ({{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/Xiaoshan_CV.pdf" "newtab" >}}here{{< /staticref >}}.)
