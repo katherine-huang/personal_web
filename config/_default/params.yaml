@@ -35,8 +35,8 @@ address:
   country: Canada
   country_code: CA
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude:
+  longitude:
 directions: 
 office_hours:
 appointment_url: 
