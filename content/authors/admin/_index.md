@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaoshan Huang
+title: Xiaoshan Huang  
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,13 +30,13 @@ education:
   courses:
   - course: PhD in Educational Psychology-Learning Sciences
     institution: McGill University 
-    year: 2021-2025
+    year: 2025 (Expected)
   - course: M.Ed. in Educational and Counselling Psychology
     institution: McGill University 
-    year: 2019-2021
+    year: 2021
   - course: B.A. in English Language and Literature
     institution: Shenzhen University
-    year: 2015-2019
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,7 +72,7 @@ email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi! I am Xiaoshan Huang. I was born in [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) , China. 
+Hi! I am Xiaoshan Huang. I was born in [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen), China. 
 I have a background of Educational Psychology, and I am currently a Ph.D. student in Learning Sciences at McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada. 
 I work with [Dr. Susanne Lajoie](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=2821) (Canada Research Chair, Tier 1). 
 
