@@ -4,6 +4,8 @@ title: Xiaoshan Huang
 
 # Is this the primary user of the site?
 superuser: true
+status:
+  icon: ☕️
 
 # Role/position/tagline
 role: Ph.D. Candidate in Educational Psychology - Learning Sciences

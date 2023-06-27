@@ -25,15 +25,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: natashamjaques@gmail.com
-phone: 425 463 9162
+email: xiaoshan.huang@mail.mcgill.ca
+phone:
 address:
-  street: 1600 Amphitheatre Parkway
-  city: Mountain View
-  region: CA
-  postcode: '94043'
-  country: United States
-  country_code: US
+  street:
+  city: Montreal
+  region: QC
+  postcode:
+  country: Canada
+  country_code: CA
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -44,7 +44,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: Twitter
-    link: 'https://twitter.com/natashajaques'
+    link: 'https://twitter.com/KathyHu61187319'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me

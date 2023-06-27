@@ -17,15 +17,28 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
-  # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+
+  # Contact details (edit or remove options as required)
+  email: xiaoshan.huang[AT]mail.mcgill.ca
+  phone: 
+  address:
+    street:
+    city: Montreal, Quebec
+    region: Canada
+    postcode:
+    country: Canada
+    country_code: Canada
+  coordinates:
+    latitude: 
+    longitude: 
+  directions:
+  office_hours:
+  appointment_url: 
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/KathyHu61187319' 
   
 design:
   columns: '2'
