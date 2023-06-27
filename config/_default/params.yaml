@@ -5,11 +5,16 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: L
+#theme: minimal
+#day_night: true
+#font: ''
+#font_size: L
 
+appearance:
+theme_day: personal
+theme_night: personal
+font: personal
+font_size: m
 # SEO
 
 site_type: Person
