@@ -100,7 +100,6 @@ highlight_languages:
   - r
   - python
   - latex
-theme: github-dark
 math: false
 diagram: false
 privacy_pack: false
