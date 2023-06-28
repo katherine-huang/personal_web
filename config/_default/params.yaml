@@ -55,26 +55,26 @@ contact_links:
 
 # Site header
 
-#main_menu:
-#  enable: true
-#  align: r
-#  show_logo: true
-#  show_language: false
-#  show_day_night: true
-#  show_search: true
-#  highlight_active_link: true
+main_menu:
+  enable: true
+  align: r
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
 
 # Site header
 
-header:
-  navbar:
-    enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
+#header:
+#  navbar:
+#    enable: true
+#    align: r
+#    show_logo: true
+#    show_language: false
+#    show_day_night: true
+#    show_search: true
+#    highlight_active_link: true
 
 # Site footer
 
