@@ -25,6 +25,6 @@ main:
   - name: Communities
     url: '#communities'
     weight: 75
-  - name: A Rich Life
+  - name: Life
     url: '#life'
     weight: 80

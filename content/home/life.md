@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: A Rich Life
+title: Life
 subtitle:
 
 <!-- content:
