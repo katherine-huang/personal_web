@@ -64,6 +64,29 @@ main_menu:
   show_search: true
   highlight_active_link: true
 
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Haolun Wu. This website is built using [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). '
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
 # Localization
 
 date_format: '2006'
