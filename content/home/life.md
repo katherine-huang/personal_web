@@ -43,4 +43,4 @@ design:
 * I am a certificated **personal fitness trainer**. I was a member of the American Council on Exercise (2019-2023).
 * I am also a passionate explorer of the nature with the **Advanced Open Water (AOW) Diving** license since 2016. 
 * Beyond my professions, I am an amateur photographer, travel enthusiast and fashion lover. 
-* I met [*my lovely husband*](https://haolun-wu.netlify.app/) at San Diego. We got married in Montreal and honeymooned in Quebec City.
+* I met [**my lovely husband**](https://haolun-wu.netlify.app/) at San Diego. We got married in Montreal and honeymooned in Quebec City.
