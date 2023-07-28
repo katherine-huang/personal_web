@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-05-17T00:00:00Z"
-doi: "10.1145/3477495.3532007"
+doi: "10.1111/jcal.12827"
 
 # Schedule page publish date (NOT publication's date).
 
