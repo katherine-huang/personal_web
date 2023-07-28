@@ -40,7 +40,7 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* I am a certificated **personal fitness trainer**, and a member of the American Council on Exercise [**(# of Certificate: T234007)**] (https://credentials.acefitness.org/5f057b93-0e6f-49e3-9df9-703d8f487a87#gs.3plzwp.)
+* I am a certificated **personal fitness trainer**, and a member of the American Council on Exercise [**(# of Certificate: T234007)**](https://credentials.acefitness.org/5f057b93-0e6f-49e3-9df9-703d8f487a87#gs.3plzwp.)
 * I am also a passionate explorer of the nature with the **Advanced Open Water (AOW) Diving** license since 2016. 
 * Beyond my professions, I am an amateur photographer, travel enthusiast and fashion lover. 
 * I met [**my lovely husband**](https://haolun-wu.netlify.app/) 💌 at San Diego, California. We got married in Montreal and honeymooned in Quebec City.
