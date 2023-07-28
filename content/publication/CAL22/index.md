@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Co-occurrence of Students’ Learning Behaviours and Reasoning Processes in an Intelligent Tutoring System: An Epistemic Network Analysis"
+title: "Exploring the co-occurrence of students’ learning behaviours and reasoning processes in an intelligent tutoring system: An epistemic network analysis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

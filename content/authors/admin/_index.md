@@ -80,7 +80,7 @@ highlight_name: true
 ---
 Hi! I am Xiaoshan Huang. I was born in [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen), China. 
 I have a background of Educational Psychology, and I am currently a Ph.D. student in Learning Sciences at McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada. 
-I work with [Dr. Susanne Lajoie](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=2821) (Canada Research Chair, Tier 1). 
+I work with Dr. Susanne Lajoie (Canada Research Chair, Tier 1). 
 
 My research focuses on learners' cognitive and affective experience in technology-rich contexts. I am also interested in teachers' mental well-beings and coping strategies in the online contexts. 
 I am currently investigating learners' social-emotional interactions and emotion regulation in computer-supported collaborative learning. 
