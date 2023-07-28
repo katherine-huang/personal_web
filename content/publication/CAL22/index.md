@@ -16,23 +16,23 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-08-01T00:00:00Z"
-# doi: "10.1145/3477495.3532007"
+date: "2023-05-17T00:00:00Z"
+doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2022-08-01T00:00:00Z"
+publishDate: "2023-05-17T00:00:00Z"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *the 2022 Annual Conference on American Educational Research Association*
-publication_short: In *AERA 2022*
+publication: In *the Journal of Comuputer-Assisted Learning*
+publication_short: In *JCAL 2023*
 
 abstract: Self-regulated learning (SRL) and medical reasoning skills are both crucial for diagnosing patients. Medical students can practice clinical reasoning with computer simulations. Students solved virtual patients of varying complexity in an intelligent tutoring system. We examined the co-occurrences of SRL behaviors and medical reasoning process. Epistemic network analysis was used to analyze the interplay of SRL and medical reasoning. High performers show more co-occurrences of reflection and higher-order reasoning. Task complexity has impact on students’ learning and reasoning co-occurrences. Intelligent tutoring systems should foster regulation and reasoning acquisition.    
 
@@ -80,7 +80,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- CAL22
+- CAL23
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
