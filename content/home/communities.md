@@ -40,7 +40,7 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* Founder: Social Interaction and Research Communication - Doctoral Consortium (SIRC-DC) 
+* Founder: Social Interaction and Research Communication - Doctoral Consortium [SIRC-DC] (https://coda.io/d/SIRC-DC_dATy4dQTDVr/SIRC-DC-McGill-ECP_suqUg#_luYsd) 
 * Reviewer: Frontiers in Psychology, Journal of Computer Assisted Learninf, Knowledge Management & E-Learning: An International Journal (KM&EL), the Annual Meeting of the American Educational Research Association (AERA), 
 the European Association for Research on Learning and Instruction (EARLI) SIG 8 -Motivation and Emotion
 * Committee Member: The Quebec Scientific Entrepreneurship Program (QcSE)
