@@ -40,5 +40,7 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* Reviewer: Frontiers in Psychology, Knowledge Management & E-Learning: An International Journal (KM&EL), the Annual Meeting of the American Educational Research Association (AERA), 2021 & 2022
+* Founder: Social Interaction and Research Communication - Doctoral Consortium (SIRC-DC) 
+* Reviewer: Frontiers in Psychology, Journal of Computer Assisted Learninf, Knowledge Management & E-Learning: An International Journal (KM&EL), the Annual Meeting of the American Educational Research Association (AERA), 
+the European Association for Research on Learning and Instruction (EARLI) SIG 8 -Motivation and Emotion
 * Committee Member: The Quebec Scientific Entrepreneurship Program (QcSE)
