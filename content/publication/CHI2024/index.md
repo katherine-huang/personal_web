@@ -1,5 +1,5 @@
 ---
-le: "Examining the role of peer acknowledgements on social annotations: Unraveling the psychological underpinnings"
+title: "Examining the role of peer acknowledgements on social annotations: Unraveling the psychological underpinnings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
