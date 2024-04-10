@@ -6,6 +6,7 @@ title: "Exploring the co-occurrence of students’ learning behaviours and reaso
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Haolun Wu
 - Shan Li
 - Tingting Wang
 - Zexuan Pan
