@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2024-05-18T00:00:00Z"
-# doi: "10.1007/s11423-022-10135-7"
+doi: "10.1007/s11423-022-10135-7"
 
 # Schedule page publish date (NOT publication's date).
 
@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: In *CHI conference on Human Factors in Computing Systems*
 publication_short: In *CHI 2024*
 
-abstract: This study explores the impact of peer acknowledgement on learner engagement and implicit psychological attributes in written annotations on an online social reading platform. Participants included 91 undergraduates from a large North American University. Using logfile data, we analyzed the relationship between learners’ received peer acknowledgement and their subsequent annotation behaviours using cross-lag regression. Higher peer acknowledgements correlate with increased initiation of annotations and responses to peer annotations. By applying text mining techniques and calculating Shapley values to analyze 1,969 social annotation entries, we identified prominent psychological themes within three dimensions (i.e., affect, cognition, and motivation) that foster peer acknowledgment in digital social annotation. These themes include positive affect, openness to learning and discussion, and expression of motivation. The findings assist educators in improving online learning communities and provide guidance to technology developers in designing effective prompts, drawing from both implicit psychological cues and explicit learning behaviours
+abstract: This study explores the impact of peer acknowledgement on learner engagement and implicit psychological attributes in written annotations on an online social reading platform. Participants included 91 undergraduates from a large North American University. Using logfile data, we analyzed the relationship between learners’ received peer acknowledgement and their subsequent annotation behaviours using cross-lag regression. Higher peer acknowledgements correlate with increased initiation of annotations and responses to peer annotations. By applying text mining techniques and calculating Shapley values to analyze 1,969 social annotation entries, we identified prominent psychological themes within three dimensions (i.e., affect, cognition, and motivation) that foster peer acknowledgment in digital social annotation. These themes include positive affect, openness to learning and discussion, and expression of motivation. The findings assist educators in improving online learning communities and provide guidance to technology developers in designing effective prompts, drawing from both implicit psychological cues and explicit learning behaviours.
 # Summary. An optional shortened abstract.
 Summary: Using machine learning techniques, the study examined the phychological underpinnings in digital social annotation that are associated with received peer acknwoledgement and learners' annotation behavior.
 
