@@ -28,7 +28,7 @@ publishDate: "2024-05-18T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *CHI conference on Human Factors in Computing Systems*
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/content/pdf/10.1007/s11423-022-10135-7.pdf'
+url_pdf: 'https://arxiv.org/pdf/2401.12956.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
