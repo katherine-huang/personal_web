@@ -38,7 +38,7 @@ abstract: This study explores the impact of peer acknowledgement on learner enga
 # Summary. An optional shortened abstract.
 Summary: Using machine learning techniques, the study examined the phychological underpinnings in digital social annotation that are associated with received peer acknwoledgement and learners' annotation behavior.
 
-tags: [human-computer interaction, socio-emotional interaction, digital social annotation, machine learning, sharpley value, peer acknowledgement]
+tags: [Human-computer Interaction, Socio-emotional Interaction, Digital Social Annotation, Machine Learning, Shapley Value, Peer Acknowledgement]
 
 # Display this page in the Featured widget?
 featured: true
