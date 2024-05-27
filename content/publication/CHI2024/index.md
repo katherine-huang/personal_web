@@ -1,5 +1,5 @@
 ---
-le: "Examining the role of peer acknowledgements on social annotations: Unraveling the psychological underpinnings"
+title: "Examining the role of peer acknowledgements on social annotations: Unraveling the psychological underpinnings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -16,12 +16,12 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-05-18T00:00:00Z"
-# doi: "10.1007/s11423-022-10135-7"
+date: "2024-03-18T00:00:00Z"
+doi: "10.1007/s11423-022-10135-7"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2024-05-18T00:00:00Z"
+publishDate: "2024-03-18T00:00:00Z"
 
 
 # Publication type.
@@ -34,11 +34,11 @@ publication_types: ["2"]
 publication: In *CHI conference on Human Factors in Computing Systems*
 publication_short: In *CHI 2024*
 
-abstract: This study explores the impact of peer acknowledgement on learner engagement and implicit psychological attributes in written annotations on an online social reading platform. Participants included 91 undergraduates from a large North American University. Using logfile data, we analyzed the relationship between learners’ received peer acknowledgement and their subsequent annotation behaviours using cross-lag regression. Higher peer acknowledgements correlate with increased initiation of annotations and responses to peer annotations. By applying text mining techniques and calculating Shapley values to analyze 1,969 social annotation entries, we identified prominent psychological themes within three dimensions (i.e., affect, cognition, and motivation) that foster peer acknowledgment in digital social annotation. These themes include positive affect, openness to learning and discussion, and expression of motivation. The findings assist educators in improving online learning communities and provide guidance to technology developers in designing effective prompts, drawing from both implicit psychological cues and explicit learning behaviours
+abstract: This study explores the impact of peer acknowledgement on learner engagement and implicit psychological attributes in written annotations on an online social reading platform. Participants included 91 undergraduates from a large North American University. Using logfile data, we analyzed the relationship between learners’ received peer acknowledgement and their subsequent annotation behaviours using cross-lag regression. Higher peer acknowledgements correlate with increased initiation of annotations and responses to peer annotations. By applying text mining techniques and calculating Shapley values to analyze 1,969 social annotation entries, we identified prominent psychological themes within three dimensions (i.e., affect, cognition, and motivation) that foster peer acknowledgment in digital social annotation. These themes include positive affect, openness to learning and discussion, and expression of motivation. The findings assist educators in improving online learning communities and provide guidance to technology developers in designing effective prompts, drawing from both implicit psychological cues and explicit learning behaviours.
 # Summary. An optional shortened abstract.
 Summary: Using machine learning techniques, the study examined the phychological underpinnings in digital social annotation that are associated with received peer acknwoledgement and learners' annotation behavior.
 
-tags: [human-computer interaction, socio-emotional interaction, digital social annotation, machine learning, sharpley value, peer acknowledgement]
+tags: [Human-computer Interaction, Socio-emotional Interaction, Digital Social Annotation, Machine Learning, Shapley Value, Peer Acknowledgement]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/content/pdf/10.1007/s11423-022-10135-7.pdf'
+url_pdf: 'https://arxiv.org/pdf/2401.12956.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
