@@ -62,6 +62,8 @@ design:
 [//]: # (# - 2016 [Best Demo]&#40;publication/interactive-musical-improvisation-with-magenta/&#41; at Neural Information Processing Systems &#40;NeurIPS&#41; 2016)
 
 
+- 2024 Herschel and Christine Victor Fellowship in Education 
+- 2023 Fonds de recherche du Québec - Société et culture (FRQSC)
 - 2023 Graduate Excellent Award, McGill University
 - 2022 Graduate Research Enhancement and Travel (GREAT) Award
 - 2022 Education Graduate Students’ Society (EGSS) Professional and Research Development
