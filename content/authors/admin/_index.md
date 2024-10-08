@@ -39,6 +39,9 @@ education:
   - course: B.A. in English Language and Literature
     institution: Shenzhen University
     year: 2019
+  - course: Exchange in Cognitive Sciences and British literature
+    institution: UC San Diego
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
