@@ -39,7 +39,7 @@ education:
   - course: B.A. in English Language and Literature
     institution: Shenzhen University
     year: 2019
-  - course: Exchange in Cognitive Sciences and British literature
+  - course: Exchange Certificate in Cognitive Sciences 
     institution: UC San Diego
     year: 2018
 
