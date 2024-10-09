@@ -96,3 +96,6 @@ I am committed to using advanced technologies to benefit learners' social emotio
 
 
 [//]: # ({{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/Xiaoshan_CV.pdf" "newtab" >}}here{{< /staticref >}}.)
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=fthIz5xzJNBvQM34UcMI_s_VoGGYYNW_vZAj9xKWFZU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
