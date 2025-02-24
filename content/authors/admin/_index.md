@@ -82,7 +82,7 @@ email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
 highlight_name: true
 ---
 
-<div style="color:rgb(255, 68, 0);">I am moving to the Bay Area this year as a visiting student at Stanford University, working with <a href="https://ed.stanford.edu/faculty/nhaber">Nick Haber</a>. Feel free to reach out if you are interested in collaborating!</div>
+***I am moving to the Bay Area this year as a visiting student at Stanford University, working with <a href="https://ed.stanford.edu/faculty/nhaber">Nick Haber</a>. Feel free to reach out if you are interested in collaborating!***
 
 
 Hi there! This is Xiaoshan. I have a background of Educational Psychology, and I am currently a Ph.D. candidate in Learning Sciences at McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada. 
