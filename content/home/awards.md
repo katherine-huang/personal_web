@@ -63,11 +63,10 @@ design:
 
 
 - 2024 Herschel and Christine Victor Fellowship in Education 
-- 2023 Fonds de recherche du Québec - Société et culture (FRQSC)
+- 2023 Fonds de Recherche du Québec - Société et Culture (FRQSC)
 - 2023 Graduate Excellent Award, McGill University
 - 2022 Graduate Research Enhancement and Travel (GREAT) Award
-- 2022 Education Graduate Students’ Society (EGSS) Professional and Research Development
-Award
+- 2022 Education Graduate Students' Society (EGSS) Professional and Research Development Award
 - 2021 Educational & Counselling Psychology (ECP) Graduate Excellence Fellowship
 - 2021 Educational & Counselling Psychology (ECP) Emerging Researcher Award
 - 2018 USIEA-IELTS Scholarship, U.S. International Education Association
