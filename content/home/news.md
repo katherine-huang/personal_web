@@ -44,7 +44,7 @@ design:
 * [12/2024], Our paper on [Emotional Tone on Reading Engagement and Peer Acknowledgment](https://ajet.org.au/index.php/AJET/article/view/9122) is published in the Australasian Journal of Educational Technology. 
 * [10/2024], Our work on Mobile Learning Experience Via User Reviews is presented at the Annual Conference of the Association for Educational Communications & Technology (AECT) inKansas City, US
 * [08/2024], I presented our work on Learners’ Interactions and Emotional Arousal at the International Conference on Motivation and Emotion (ICM) in Bern, Switzerland
-* [07/2024], I was awarded the Herschel and Christine Victor Fellowship in Education which grants to only [**one recepient each year**].
+* [07/2024], I was awarded the Herschel and Christine Victor Fellowship in Education which grants to only **one recepient each year**.
 * [06/2024], Our paper on [Measuring Emotional Resposnes in Teamwork](https://link.springer.com/article/10.1007/s12144-024-06235-7) is published in Current Psychology.
 * [06/2024], I become a mum! Thank you [**Kimmy**] for being cute, strong, and bringning us lots of joy.
 * [05/2024], I presented our work on [Psychological Underpinnings in Social Annotations using Machine Learning] at the [**ACM CHI**] Conference on Human Factors in Computing Systems in Honolulu, US
