@@ -42,7 +42,7 @@ design:
 ---
 * [04/2025] I will give an **e-Lightening Ed-talk** on the topic of Sequential Relationships of Team Actions, SSRL, and Heart Rate Changes at [the Annual Meeting of the American Educational Research Association in Denver](https://www.aera.net/Events-Meetings/Annual-Meeting/2025-Annual-Meeting), US
 * [12/2024] Our paper on [Emotional Tone on Reading Engagement and Peer Acknowledgment](https://ajet.org.au/index.php/AJET/article/view/9122) is published in the Australasian Journal of Educational Technology. 
-* [08/2024] I presented our work on Learners’ Interactions and Emotional Arousal at the International Conference on Motivation and Emotion (ICM) in Bern, Switzerland
+* [08/2024] I presented our work on Learners’ Interactions and Emotional Arousal at the [International Conference on Motivation and Emotion (ICM)](https://www.earli.org/sig/sig-8-motivation-and-emotion) in Bern, Switzerland
 * [07/2024] I was awarded the Herschel and Christine Victor Fellowship in Education which grants to only **one recepient each year**.
 * [06/2024] Our paper on [Measuring Emotional Resposnes in Teamwork](https://link.springer.com/article/10.1007/s12144-024-06235-7) is published in Current Psychology.
 * [06/2024] I become a mum! Thank you Kimmy for being cute, strong, and bringning us lots of joy.
