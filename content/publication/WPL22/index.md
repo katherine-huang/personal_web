@@ -34,7 +34,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *the Journal of Workplace Learning*
-publication_short: In *JWPL22*
+publication_short: In *JWPL 22*
 
 abstract: The purpose of this study is to propose and examine an integrated learning model for improving training effectiveness in workplace learning. Specifically, this study investigated the effect of achievement goal-setting intervention across three groups of new employees from a multinational medical company. During a three-day remote training program, the role of each achievement goal orientation (AGO) in goal setting intervention and their relations with trainees’ applied learning strategies were examined. This study proposed and validated an integrated training model for improving remote workplace learning effectiveness.
 
