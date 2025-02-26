@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Social emotional interaction in collaborative learning: Why it matters and how can we measure it?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
