@@ -1,16 +1,16 @@
 ---
-active: false
+active: true
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 17
 
-title: News
+title: Selectd News
 subtitle:
 
 <!-- content:
@@ -47,4 +47,13 @@ design:
 * I [completed my PhD](./publication/social-and-affective-machine-learning/) in November 2019. 
 * I was selected as one of the [2019 Rising Stars in EECS](https://www.eecs.mit.edu/news-events/announcements/mits-rising-stars-eecs-2019), and won the [pitch competition](https://publish.illinois.edu/rising-stars/).
 * [Social Influence](./publication/social-influence-as-intrinsic-motivation-for-multiagent-deep-reinforce/) received an [**honourable mention for Best Paper at ICML 2019**](https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8) and was featured in [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/computing/software/deepmind-teaches-ai-teamwork).
-* I was named one of Campion College's 2017 Centennial [Alumni of Distinction](https://campioncollege.ca/resources/natasha-jaques/).
+* 04/2025, I will give an e-Lightening Ed-talk on the topic of Sequential Relationships of Team Actions, SSRL, and Heart Rate Changes at the Annual Meeting of the American Educational Research Association in Denver, US
+* 12/2024, our paper on [Emotional Tone on Reading Engagement and Peer Acknowledgment](https://ajet.org.au/index.php/AJET/article/view/9122) is published in the Australasian Journal of Educational Technology. 
+* 10/2024, Our work on Mobile Learning Experience Via User Reviews is presented at the Annual Conference of the Association for Educational Communications & Technology (AECT) inKansas City, US
+* 08/2024, I presented our work on Learners’ Interactions and Emotional Arousal at the International Conference on Motivation and Emotion (ICM) in Bern, Switzerland
+* 07/2024, I was awarded the Herschel and Christine Victor Fellowship in Education which grants to only [**one recepient each year**].
+* 06/2024, our paper on [Measuring Emotional Resposnes in Teamwork](https://link.springer.com/article/10.1007/s12144-024-06235-7) is published in Current Psychology.
+* 06/2024, I become a mum! Thank you [**Kimmy**] for being cute, strong, and bringning us lots of joy.
+* 05/2024, I presented our work on [Psychological Underpinnings in Social Annotations using Machine Learning] at the [**ACM CHI**] Conference on Human Factors in Computing Systems in Honolulu, US
+* 04/2024, Our paper on [Human-AI Collaborative Writing](https://www-tandfonline-com.proxy3.library.mcgill.ca/doi/full/10.1080/03075079.2024.2323593) has got into the most read articles in Studies in Higher Education for the last year. 
+* 03/2024, Our praticioner paper on the topic of Enhancing Workplace Training Efficiency Through Investigating Employees’ Behavioral Patterns won the Best Pract Report Nominee at the 14th International Learning Analytics and Knowledge (LAK) Conference in Kyoto, Japan. 
