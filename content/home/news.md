@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 17
 
-title: Selectd News
+title: Selected News
 subtitle:
 
 <!-- content:
