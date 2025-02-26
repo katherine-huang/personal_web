@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Social Sciences and Humanities Open*
-publication_short: In *SSHO23*
+publication_short: In *SSHO 23*
 
 abstract: Emotions play a crucial role in our daily lives, contributing to our mental health as well as to our learning and performance efficiency. Emotions are easily influenced by the surrounding environment and objects, and in response, we may behave differently depending on the interaction between us and the object/environment, which shape social-emotional interactions. In collaborative contexts, social-emotional interactions can affect learners’ cognitive processes, collaboration satisfaction, and learning outcomes. This study selects and reviews current empirical findings on social emotional interactions in collaborative learning contexts, with a special focus on the function of social-emotional interactions in collaboration and how they are measured for research purposes. This paper synthesizes the major findings and addresses the important role shared-regulation plays in maintaining positive emotional interactions in collaborative learning. Furthermore, the paper identifies how emotions are studied in social-contexts and points out advanced methodological applications for future research. Finally, the paper calls for interventions on facilitating sound social emotional-interactions in collaborative learning by providing practical directions for educators and instructors.
 
