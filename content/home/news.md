@@ -40,7 +40,7 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* [07/2025] I will give a talk on [What Makes Teamwork Work from Perspectives of Emotions] at [the Annual Conference of Artificial Intelligence in Education](https://aied2025.itd.cnr.it/index.php/maintrack/) in Palermo, Italy.
+* [07/2025] I will give a talk on What Makes Teamwork Work at [the 26th International Conference on Artificial Intelligence in Education](https://aied2025.itd.cnr.it/index.php/maintrack/) in Palermo, Italy.
 * [04/2025] I will give an **e-Lightening Ed-talk** on the topic of Sequential Relationships of Team Actions, SSRL, and Heart Rate Changes at [the Annual Meeting of the American Educational Research Association](https://www.aera.net/Events-Meetings/Annual-Meeting/2025-Annual-Meeting) in Denver, US.
 * [12/2024] Our paper on [Emotional Tone on Reading Engagement and Peer Acknowledgment](https://ajet.org.au/index.php/AJET/article/view/9122) is published in the Australasian Journal of Educational Technology. 
 * [08/2024] I presented our work on Learners’ Interactions and Emotional Arousal at the [International Conference on Motivation and Emotion (ICM)](https://www.earli.org/sig/sig-8-motivation-and-emotion) in Bern, Switzerland.
@@ -49,4 +49,4 @@ design:
 * [06/2024] I become a mum! Thank you Kimmy for being cute, strong, and bringning us lots of joy.
 * [05/2024] I presented our work on [Psychological Underpinnings in Social Annotations using Machine Learning](https://dl-acm-org.proxy3.library.mcgill.ca/doi/full/10.1145/3613904.3641906) at the **ACM CHI** Conference on Human Factors in Computing Systems in Honolulu, US
 * [04/2024] Our paper on [Human-AI Collaborative Writing](https://www-tandfonline-com.proxy3.library.mcgill.ca/doi/full/10.1080/03075079.2024.2323593) has got into **the most read articles** in Studies in Higher Education for the last year. 
-* # 03/2024 Our paper on Enhancing Workplace Training Efficiency Through Investigating Employees’ Behavioral Patterns won **the Best Pract Report Nominee** at the [14th International Learning Analytics and Knowledge (LAK) Conference](https://www.solaresearch.org/events/lak/lak24/accepted-papers/) in Kyoto, Japan. 
+# 03/2024 Our paper on Enhancing Workplace Training Efficiency Through Investigating Employees’ Behavioral Patterns won **the Best Pract Report Nominee** at the [14th International Learning Analytics and Knowledge (LAK) Conference](https://www.solaresearch.org/events/lak/lak24/accepted-papers/) in Kyoto, Japan. 
