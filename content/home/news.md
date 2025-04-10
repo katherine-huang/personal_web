@@ -49,4 +49,3 @@ design:
 * [06/2024] I become a mum! Thank you Kimmy for being cute, strong, and bringning us lots of joy.
 * [05/2024] I presented our work on [Psychological Underpinnings in Social Annotations using Machine Learning](https://dl-acm-org.proxy3.library.mcgill.ca/doi/full/10.1145/3613904.3641906) at the **ACM CHI** Conference on Human Factors in Computing Systems in Honolulu, US
 * [04/2024] Our paper on [Human-AI Collaborative Writing](https://www-tandfonline-com.proxy3.library.mcgill.ca/doi/full/10.1080/03075079.2024.2323593) has got into **the most read articles** in Studies in Higher Education for the last year. 
-# 03/2024 Our paper on Enhancing Workplace Training Efficiency Through Investigating Employees’ Behavioral Patterns won **the Best Pract Report Nominee** at the [14th International Learning Analytics and Knowledge (LAK) Conference](https://www.solaresearch.org/events/lak/lak24/accepted-papers/) in Kyoto, Japan. 
