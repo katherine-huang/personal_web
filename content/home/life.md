@@ -40,7 +40,7 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* I am a certificated **personal fitness trainer**, and a member of the American Council on Exercise [(Certificate Number: T234007)]
+* I am a certificated **personal fitness trainer**, and a member of the American Council on Exercise (Certificate Number: T234007)
 * I am also a passionate explorer of the nature with the **Advanced Open Water (AOW) Diving** license since 2016. 
 * Beyond my professions, I am an amateur photographer, travel enthusiast and fashion lover. 
 * I met [**my lovely partner**](https://haolun-wu.github.io/) 💌 at San Diego, California. We got married in Montreal and honeymooned in Quebec City.
