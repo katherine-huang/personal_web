@@ -41,6 +41,6 @@ design:
   view: 2 -->
 ---
 * **Founder**: Social Interaction and Research Communication - Doctoral Consortium **([SIRC-DC](https://coda.io/d/SIRC-DC_dATy4dQTDVr/SIRC-DC-McGill-ECP_suqUg#_luYsd))**
-* **Reviewer**: Journal of Computers in Human Behaviors, Frontiers in Psychology, Journal of Computer Assisted Learning, Journal of Learning Analytics, Knowledge Management & E-Learning: An International Journal (KM&EL), the Annual Meeting of the American Educational Research Association (AERA), 
+* **Reviewer**: International Journal of Human-Computer Interaction, Frontiers in Psychology, Journal of Computer Assisted Learning, Journal of Learning Analytics, Knowledge Management & E-Learning: An International Journal (KM&EL), the Annual Meeting of the American Educational Research Association (AERA), 
 the European Association for Research on Learning and Instruction (EARLI) SIG 8 -Motivation and Emotion, the Annual Meeting of the International Society of learning Sciences (ISLS)
 * **Committee Member**: The Quebec Scientific Entrepreneurship Program (QcSE)
