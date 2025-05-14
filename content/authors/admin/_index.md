@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Educational Psychology-Learning Sciences
     institution: McGill University 
-    year: 2026
+    year: 2025
   - course: M.Ed. in Educational and Counselling Psychology
     institution: McGill University 
     year: 2021
