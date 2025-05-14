@@ -25,7 +25,7 @@ interests:
   - Social Emotional Interaction
   - Emotion Regulation
   - Computer-supported Collaborative Learning
-  - Educational Data Mining
+  - Multimodal Analytics
 
 # Education to show in About widget
 education:
