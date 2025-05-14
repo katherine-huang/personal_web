@@ -43,5 +43,5 @@ design:
 * I am a certificated **personal fitness trainer**, and a member of the American Council on Exercise (Certificate Number: T234007)
 * I am also a passionate explorer of the nature with the **Advanced Open Water (AOW) Diving** license since 2016. 
 * Beyond my professions, I am an amateur photographer, travel enthusiast and fashion lover. 
-<img src="/media/skydiving.jpg" alt="Me skydiving over the Pacific Ocean view at San Diego in 2018" width="600">
+!(/media/skydiving.jpg)
 * I met [**my lovely partner**](https://haolun-wu.github.io/) 💌 at San Diego, California. We got married in Montreal and honeymooned in Quebec City.
