@@ -81,10 +81,6 @@ email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-🏖️ *I am moving to the Bay Area this year as a visiting student at Stanford University, working with [Dr. Nick Haber](https://ed.stanford.edu/faculty/nhaber). Feel free to reach out if you are interested in collaborating!*
-
-
 Hi there! This is Xiaoshan. I have a background of Educational Psychology, and I am currently a Ph.D. candidate in Learning Sciences at McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada. 
 I work with [Dr. Susanne Lajoie (Canada Research Chair, Tier 1)](https://www.mcgill.ca/atlas-lab/principal-investigator). 
 I was born in [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen), China. 
