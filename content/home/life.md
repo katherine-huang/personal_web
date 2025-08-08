@@ -47,4 +47,4 @@ design:
 * Beyond my professions, I am an amateur photographer, travel enthusiast and fashion lover. 
 ![Me skydiving over the Pacific Ocean view at San Diego in 2018](/media/skydiving.jpg)
   Me skydiving over the Pacific Ocean view at San Diego in 2018
-* I met [**my lovely partner**](https://haolun-wu.github.io/) 💌 at San Diego, California. We got married in Montreal and honeymooned in Quebec City.
+<!-- * I met [**my lovely partner**](https://haolun-wu.github.io/) 💌 at San Diego, California. We got married in Montreal and honeymooned in Quebec City. -->
