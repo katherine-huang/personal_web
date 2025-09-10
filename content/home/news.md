@@ -40,8 +40,9 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* [07/2025] I will give a talk on What Makes Teamwork Work at [the 26th International Conference on Artificial Intelligence in Education](https://aied2025.itd.cnr.it/index.php/maintrack/) **(AIED)** in Palermo, Italy.
-* [04/2025] I will give an **e-Lightening Ed-talk** on the topic of Sequential Relationships of Team Actions, SSRL, and Heart Rate Changes at [the Annual Meeting of the American Educational Research Association](https://www.aera.net/Events-Meetings/Annual-Meeting/2025-Annual-Meeting) in Denver, US.
+* [10/2025] Our work entitled "Linking Facial Recognition of Emotions and Socially Shared Regulation in Medical Simulation" will be published in the proceedings of [the CSCW conference](https://cscw.acm.org/2025/).
+* [07/2025] I gave a talk on What Makes Teamwork Work at [the 26th International Conference on Artificial Intelligence in Education](https://aied2025.itd.cnr.it/index.php/maintrack/) **(AIED)** in Palermo, Italy.
+* [04/2025] I gave an **e-Lightening Ed-talk** on the topic of Sequential Relationships of Team Actions, SSRL, and Heart Rate Changes at [the Annual Meeting of the American Educational Research Association](https://www.aera.net/Events-Meetings/Annual-Meeting/2025-Annual-Meeting) in Denver, US.
 * [12/2024] Our paper on [Emotional Tone on Reading Engagement and Peer Acknowledgment](https://ajet.org.au/index.php/AJET/article/view/9122) is published in the Australasian Journal of Educational Technology. 
 * [08/2024] I presented our work on Learners’ Interactions and Emotional Arousal at the [International Conference on Motivation and Emotion (ICM)](https://www.earli.org/sig/sig-8-motivation-and-emotion) in Bern, Switzerland.
 * [07/2024] I was awarded the Herschel and Christine Victor Fellowship in Education which grants to only **one recepient each year**.
