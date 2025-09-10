@@ -29,5 +29,5 @@ main:
     url: '#life'
     weight: 80
   - name: Blog
-    url: '#blog'
+    url: '#https://www.notion.so/Welcome-to-My-Blog-1af477951a3180628fd4dbbfc6e41f87'
     weight: 85
