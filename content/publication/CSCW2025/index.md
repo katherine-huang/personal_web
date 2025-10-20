@@ -10,7 +10,7 @@ authors:
 - Haolun Wu
 - Yeyu Wang
 - Ethan Churchill
-- Xue Liu
+- Steve (Xue) Liu
 - David Williamson Shaffer
 
 
@@ -20,7 +20,7 @@ authors:
 # - "Equal contribution"
 
 date: "2025-10-17:00:00Z"
-doi: "https://dl.acm.org/doi/10.1145/3715070.3749232"
+doi: "10.1145/3715070.3749232"
 
 # Schedule page publish date (NOT publication's date).
 
