@@ -34,7 +34,7 @@ content:
   - name: Intelligent Tutoring System
     tag: Intelligent Tutoring System
   - name: Human-AI Collaboration
-    tag: Human-AI Collabroation
+    tag: Human-AI Collaboration
   - name: Training Effectiveness
     tag: Training Effectiveness
 
