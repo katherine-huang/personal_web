@@ -41,7 +41,7 @@ abstract: Computer-supported simulation enables a practical alternative for medi
 # Summary. An optional shortened abstract.
 Summary: Using transmodal analysis on facial recognition and team dialogues, the study examined and compared the co-occurrences of emotion and socially-shared regulatory interactions of expert and novice medical teams.
 
-tags: [Human-computer Interaction, Emotion Recognition, Medical Education, Socially-Shared Regulation]
+tags: [Human-computer Interaction, Emotions, Medical Education, Socially-Shared Regulation, Intelligent Tutoring System]
 
 # Display this page in the Featured widget?
 featured: true
