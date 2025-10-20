@@ -33,6 +33,8 @@ content:
     tag: Self-Regulated Learning 
   - name: Intelligent Tutoring System
     tag: Intelligent Tutoring System
+  - name: Human-AI Collaboration
+    tag: Human-AI Collabroation
   - name: Training Effectiveness
     tag: Training Effectiveness
 
