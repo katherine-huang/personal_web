@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Workshop Co-founder
-    company: Bronfman Jewish Education Centre
+    company: Bronfman Education Centre
     company_url: ''
     company_logo: org-gc
     location: Montreal
