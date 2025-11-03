@@ -25,6 +25,7 @@ interests:
   - Social Emotional Interaction
   - Emotion Regulation
   - Computer-supported Collaborative Learning
+  - Human-AI Collaboration
   - Multimodal Analytics
 
 # Education to show in About widget
