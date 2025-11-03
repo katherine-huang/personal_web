@@ -39,7 +39,7 @@ summary: The paper reviews empirical studies on social emotional interactions in
 
 
 
-tags: [Social Emotional Interaction,Collaborative Learning, Socially-shared Regulation]
+tags: [Social-Emotional Interaction, Collaborative Learning, Socially-Shared Regulation]
 
 # Display this page in the Featured widget?
 featured: true

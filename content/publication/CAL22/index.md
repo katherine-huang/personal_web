@@ -45,7 +45,7 @@ summary: The epistemic network analysis can detect learning and reasoning co-occ
 
   
 
-tags: [Self-Regulated Learning, Medical Reasoning, Epistemic Network Analysis, Intelligent Tutoring System]
+tags: [Self-Regulated Learning, Medical Reasoning, Epistemic Network Analysis, Intelligent Tutoring Systems]
 
 # Display this page in the Featured widget?
 featured: true
