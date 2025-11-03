@@ -31,8 +31,8 @@ content:
     tag: Emotions
   - name: Self-Regulated Learning 
     tag: Self-Regulated Learning 
-  - name: Intelligent Tutoring System
-    tag: Intelligent Tutoring System
+  - name: Intelligent Tutoring Systems
+    tag: Intelligent Tutoring Systems
   - name: Human-AI Collaboration
     tag: Human-AI Collaboration
   - name: Training Effectiveness
