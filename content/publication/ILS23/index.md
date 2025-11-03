@@ -34,7 +34,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Information and Learning Sciences*
-publication_short: In *ILS 2023*
+publication_short: In *ILS23*
 
 abstract: Social presence (SP), which refers to individuals’ perception of others being engaged as “real people” in the same situation, is a crucial component in technology-rich learning environments (TREs). The systematic study identifies five crucial factors for instructional design to foster SP in TREs: technology affordances, multimedia features, social factors, instructional principles, learner characteristics and learning management systems. The authors compare two learning modes across three dimensions and identify popular technologies used in studies related to SP over the past two decades. Practical recommendations are provided for educators and educational technology developers to enhance SP within technology-rich learning environments.
 
