@@ -78,7 +78,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- ILS23
+- ILS 2023
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
