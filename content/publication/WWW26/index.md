@@ -43,7 +43,7 @@ abstract: Large language models (LLMs) chatbots like ChatGPT are increasingly us
 # Summary. An optional shortened abstract.
 Summary: This research investigates the growing role of Large Language Model (LLM) chatbots in mental health support by analyzing large-scale user data from six social media platforms. Using a Value-Sensitive Design (VSD) framework, the study examines how users with different mental health conditions perceive and interact with these AI tools.
 
-tags: [Human-Computer Interaction, Mental Health, Value-Sensitive Design, LLM, CrowdSourcing, Human-AI Collaboration, Emotions]
+tags: [Human-Computer Interaction, Mental Health, Value-Sensitive Design, Human-AI Collaboration, Emotions]
 # Display this page in the Featured widget?
 featured: true
 
