@@ -1,5 +1,6 @@
 ---
-title: "Linking facial recognition of emotions and socially shared regulation in medical simulation"
+title: "LLM use for mental health: Crowdsourcing users’
+sentiment-based perspectives and values from social discussions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -40,7 +41,7 @@ publication_short: In *WWW 2026*
 
 abstract: Large language models (LLMs) chatbots like ChatGPT are increasingly used for mental health support. They offer accessible, therapeutic support but also raise concerns about misinformation, over-reliance, and risks in high-stakes contexts of mental health. We crowdsource large-scale users' posts from six major social media platforms to examine how people discuss their interactions with LLM chatbots across different mental health conditions. Through an LLM-assisted pipeline grounded in Value-Sensitive Design (VSD), we mapped the relationships across user-reported sentiments, mental health conditions, perspectives, and values. Our results reveal that the use of LLM chatbots is condition-specific. Users with neurodivergent conditions (e.g., ADHD, ASD) report strong positive sentiments and instrumental or appraisal support, whereas higher-risk disorders (e.g., schizophrenia, bipolar disorder) show more negative sentiments. We further uncover how user perspectives co-occur with underlying values, such as identity, autonomy, and privacy. Finally, we discuss shifting from "one-size-fits-all" chatbot design toward condition-specific, value-sensitive LLM design.
 # Summary. An optional shortened abstract.
-Summary: This research investigates the growing role of Large Language Model (LLM) chatbots in mental health support by analyzing large-scale user data from six social media platforms. Using a Value-Sensitive Design (VSD) framework, the study examines how people with different mental health conditions perceive and interact with these AI tools.
+Summary: This research investigates the growing role of Large Language Model (LLM) chatbots in mental health support by analyzing large-scale user data from six social media platforms. Using a Value-Sensitive Design (VSD) framework, the study examines how users with different mental health conditions perceive and interact with these AI tools.
 
 tags: [Human-Computer Interaction, LLM, Mental Health, CrowdSourcing, Value-Sensitive Design]
 
