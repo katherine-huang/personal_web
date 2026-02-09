@@ -40,7 +40,7 @@ design:
   #   4 = Citation (publication only)
   view: 2 -->
 ---
-* [04/2026] I will be presenting our work ["LLM Use for Mental Health"](https://arxiv.org/abs/2512.07797) at the Web Conference in Dubai, UAE.
+* [04/2026] I will present our work ["LLM Use for Mental Health"](https://arxiv.org/abs/2512.07797) at [the Web Conference](https://www2026.thewebconf.org/) in Dubai, UAE.
 * [10/2025] Our work entitled ["Linking Facial Recognition of Emotions and Socially Shared Regulation in Medical Simulation"](https://www.linkedin.com/posts/xiaoshan-huang-55378b193_cscw2025-affectivecomputing-sociallysharedregulation-activity-7385335005486612481-W7LZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1_2U8BR7LDuu1n7uhBUGsm166AemGoiQs) is presented at [the CSCW conference](https://cscw.acm.org/2025/).
 * [07/2025] I gave a talk on What Makes Teamwork Work at [the 26th International Conference on Artificial Intelligence in Education](https://aied2025.itd.cnr.it/index.php/maintrack/) **(AIED)** in Palermo, Italy.
 * [04/2025] I gave an **e-Lightening Ed-talk** on the topic of Sequential Relationships of Team Actions, SSRL, and Heart Rate Changes at [the Annual Meeting of the American Educational Research Association](https://www.aera.net/Events-Meetings/Annual-Meeting/2025-Annual-Meeting) in Denver, US.
