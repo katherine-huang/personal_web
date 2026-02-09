@@ -8,7 +8,7 @@ status:
   icon: ☕️
 
 # Role/position/tagline
-role: Ph.D. Candidate in Educational Psychology - Learning Sciences
+role: Ph.D. in Educational Psychology - Learning Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -82,10 +82,10 @@ email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi there! This is Xiaoshan. I have a background of Educational Psychology, and I am currently a Ph.D. candidate in Learning Sciences at McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada. 
-I work with [Dr. Susanne Lajoie (Canada Research Chair, Tier 1)](https://www.mcgill.ca/atlas-lab/principal-investigator). 
+Hi there! This is Xiaoshan. I obtained my Ph.D. in Learning Sciences from McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada, with a background in Educational Psychology. 
+During my doctoral studies, I was fortunate to work with [Dr. Susanne Lajoie (Canada Research Chair, Tier 1)](https://www.mcgill.ca/atlas-lab/principal-investigator) and vist [Dr. Nick Haber](https://ed.stanford.edu/faculty/nhaber)'s group at Stanford University. 
 I was born in [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen), China. 
-I am visiting [Dr. Nick Haber](https://ed.stanford.edu/faculty/nhaber)'s group at Stanford University in 2025.
+
 
 My research focuses on learners' cognitive and affective experience in technology-rich contexts. I am also interested in teachers' mental well-beings and coping strategies in the online contexts. 
 I am currently investigating learners' social-emotional interactions and emotion regulation in computer-supported collaborative learning. 
