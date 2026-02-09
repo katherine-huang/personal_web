@@ -18,7 +18,7 @@ organizations:
     url: https://www.mcgill.ca/atlas-lab/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on learners' cognitive and affective experience in technology-rich contexts. I am committed to using advanced technologies to benefit learners' social emotional interactions and aid collaborators' decision-making in problem-solving tasks.
+bio: My research focuses on users' cognitive and affective experience in technology-rich contexts. I am committed to using advanced technologies to benefit learners' social emotional interactions and aid collaborators' decision-making in problem-solving tasks.
 
 # Interests to show in About widget
 interests:
