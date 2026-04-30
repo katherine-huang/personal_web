@@ -63,7 +63,7 @@ social:
     link: https://scholar.google.com/citations?user=unzA_yEAAAAJ&hl=en&authuser=1&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/XHKATHY
+    link: https://github.com/katherine-huang
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/xiaoshan-huang-55378b193/
