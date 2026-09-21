@@ -82,7 +82,7 @@ email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi there! This is Xiaoshan. I am a postdoctoral scholar working with Prof. Conrad Borchers from Vanderbilt Univeristy and Prof. Ken Koedinger from Carnegie Mellon University. I obtained my Ph.D. in Learning Sciences from McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada, with a background in Educational Psychology. 
+Hi there! This is Xiaoshan. I am a postdoctoral scholar working with [Prof. Conrad Borchors](https://cborchers.com/) from Vanderbilt Univeristy and [Prof. Ken Koedinger](https://hcii.cmu.edu/people/ken-koedinger) from Carnegie Mellon University. I obtained my Ph.D. in Learning Sciences from McGill University in [Quebec](https://en.wikipedia.org/wiki/Quebec), Canada, with a background in Educational Psychology. 
 During my doctoral studies, I worked with [Dr. Susanne Lajoie (Canada Research Chair, Tier 1)](https://www.mcgill.ca/atlas-lab/principal-investigator) and visted [Dr. Nick Haber](https://ed.stanford.edu/faculty/nhaber)'s group at Stanford University. 
 I was born in [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen), China. 
 
