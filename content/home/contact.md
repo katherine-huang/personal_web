@@ -19,15 +19,15 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: xiaoshan.huang[AT]mail.mcgill.ca
+  email: xiaoshah[AT]andrew.cmu.edu
   phone: 
   address:
     street:
-    city: Montreal, Quebec
-    region: Canada
+    city: 
+    region: USA
     postcode:
-    country: Canada
-    country_code: Canada
+    country: USA
+    country_code: USA
   coordinates:
     latitude: 
     longitude: 
