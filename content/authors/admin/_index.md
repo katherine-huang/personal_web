@@ -77,7 +77,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: xiaoshan.huang@mail.mcgill.ca; katherinehxs1225@gmail.com"
+email: xiaoshah@andrew.cmu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
